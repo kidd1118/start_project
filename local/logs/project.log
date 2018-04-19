@@ -1,0 +1,55 @@
+2018-04-18T03:44:36.054Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-18T03:44:36.059Z - normal: checking language setting...
+2018-04-18T03:44:36.059Z - normal: Language: en
+2018-04-18T03:44:38.233Z - success: protocol editor-framework registered
+2018-04-18T03:44:38.233Z - success: protocol app registered
+2018-04-18T03:44:38.233Z - success: protocol theme registered
+2018-04-18T03:44:38.233Z - success: protocol packages registered
+2018-04-18T03:44:38.233Z - success: protocol unpack registerred
+2018-04-18T03:44:38.233Z - success: protocol disable-commonjs registerred
+2018-04-18T03:44:38.787Z - normal: connected!
+2018-04-18T03:44:38.787Z - normal: Check project D:\Program\cocos\start_project
+2018-04-18T03:44:38.797Z - normal: Initializing Cocos2d
+2018-04-18T03:44:39.702Z - normal: Initializing Asset Database
+2018-04-18T03:44:39.732Z - success: protocol uuid registerred
+2018-04-18T03:44:39.732Z - success: protocol db registerred
+2018-04-18T03:44:39.732Z - success: protocol thumbnail registerred
+2018-04-18T03:44:39.732Z - normal: Loading editor/builtin packages
+2018-04-18T03:44:39.752Z - success: anysdk loaded
+2018-04-18T03:44:39.852Z - success: assets loaded
+2018-04-18T03:44:39.862Z - success: builder loaded
+2018-04-18T03:44:39.862Z - success: cocos-analytics loaded
+2018-04-18T03:44:39.862Z - success: console loaded
+2018-04-18T03:44:39.892Z - success: fb-instant-games loaded
+2018-04-18T03:44:39.902Z - success: hierarchy loaded
+2018-04-18T03:44:39.902Z - success: inspector loaded
+2018-04-18T03:44:39.902Z - success: keystore loaded
+2018-04-18T03:44:39.912Z - success: node-library loaded
+2018-04-18T03:44:39.912Z - success: package-asset loaded
+2018-04-18T03:44:39.912Z - success: preferences loaded
+2018-04-18T03:44:39.912Z - success: project-exporter loaded
+2018-04-18T03:44:39.922Z - success: project-importer loaded
+2018-04-18T03:44:39.922Z - success: project-settings loaded
+2018-04-18T03:44:39.932Z - success: ui-kit loaded
+2018-04-18T03:44:39.932Z - success: ui-grid loaded
+2018-04-18T03:44:39.932Z - success: scene loaded
+2018-04-18T03:44:39.932Z - success: sprite-editor loaded
+2018-04-18T03:44:39.932Z - success: store loaded
+2018-04-18T03:44:39.942Z - success: timeline loaded
+2018-04-18T03:44:39.942Z - normal: Loading builtin packages
+2018-04-18T03:44:39.942Z - success: asset-db-debugger loaded
+2018-04-18T03:44:39.942Z - success: code-editor loaded
+2018-04-18T03:44:39.942Z - success: color-picker loaded
+2018-04-18T03:44:39.942Z - success: package-manager loaded
+2018-04-18T03:44:39.942Z - success: sdkbox loaded
+2018-04-18T03:44:39.952Z - success: tester loaded
+2018-04-18T03:44:39.952Z - success: ui-kit-preview-extra loaded
+2018-04-18T03:44:39.952Z - success: ui-kit-preview loaded
+2018-04-18T03:44:39.952Z - success: ui-tree loaded
+2018-04-18T03:44:40.922Z - normal: Initializing project D:\Program\cocos\start_project
+2018-04-18T03:44:40.932Z - normal: Loading packages
+2018-04-18T03:44:40.942Z - normal: Watching packages
+2018-04-18T03:44:40.952Z - normal: Run Application
+2018-04-18T03:44:41.430Z - success: preview server running at http://localhost:7456
+2018-04-18T03:44:45.541Z - normal: 1.9.0
+2018-04-18T03:44:55.031Z - success: Compiling task has been added to .vscode/tasks.json, please run "compile" task in VS Code to trigger compile in Cocos Creator.
